@@ -1,6 +1,8 @@
 corbelpy
 ==========================
 
+[![Build Status](https://travis-ci.org/RomRuben/corbel-py.svg?branch=master)](https://travis-ci.org/RomRuben/corbel-py)
+
   * **Setting up the development environment before first use**
   
         > python bootstrap.py

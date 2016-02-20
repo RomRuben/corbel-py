@@ -3,6 +3,7 @@ python:
   - "2.7"
 install:
   - "pip install zc.buildout"
+  - "pip install coveralls"
 #  - "python bootstrap.py"
 #  - "buildout"
 script:

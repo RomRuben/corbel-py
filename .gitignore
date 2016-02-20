@@ -5,3 +5,5 @@
 corbelpy.egg-info/
 dist/
 eggs/
+**/*.pyc
+

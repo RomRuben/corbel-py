@@ -1,6 +1,10 @@
 corbelpy
 ==========================
 
+[![Build Status](https://travis-ci.org/RomRuben/corbel-py.svg?branch=master)](https://travis-ci.org/RomRuben/corbel-py)
+[![Coverage Status](https://coveralls.io/repos/github/RomRuben/corbel-py/badge.svg?branch=master)](https://coveralls.io/github/RomRuben/corbel-py?branch=master)
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/858f13a0745a4550ac7ea7d948a350f7)](https://www.codacy.com/app/ruben-romcor/corbel-py)
+
   * **Setting up the development environment before first use**
   
         > python bootstrap.py

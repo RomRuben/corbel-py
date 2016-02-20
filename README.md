@@ -2,6 +2,8 @@ corbelpy
 ==========================
 
 [![Build Status](https://travis-ci.org/RomRuben/corbel-py.svg?branch=master)](https://travis-ci.org/RomRuben/corbel-py)
+[![Coverage Status](https://coveralls.io/repos/github/RomRuben/corbel-py/badge.svg?branch=master)](https://coveralls.io/github/RomRuben/corbel-py?branch=master)
+
 
   * **Setting up the development environment before first use**
   

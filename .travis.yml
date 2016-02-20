@@ -7,3 +7,5 @@ install:
 #  - "buildout"
 script:
   - py.test
+after_success:
+  - coveralls

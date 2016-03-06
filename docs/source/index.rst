@@ -1,10 +1,5 @@
-.. Corbelpy documentation master file, created by
-   sphinx-quickstart on Sat Feb 20 21:51:02 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Corbelpy's documentation!
-====================================
+Corbel-py
+=========
 
 Contents:
 
@@ -12,11 +7,11 @@ Contents:
    :maxdepth: 2
 
 
+.. only:: html
 
-Indices and tables
-==================
+   Indices and tables
+   ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`

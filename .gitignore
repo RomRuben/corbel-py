@@ -6,4 +6,10 @@ corbelpy.egg-info/
 dist/
 eggs/
 **/*.pyc
-
+.ppt-version
+.idea
+*.iml
+.cache
+docs/build
+.tox
+corbel.egg-info

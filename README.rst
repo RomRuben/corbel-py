@@ -11,8 +11,7 @@
 .. image:: https://api.codacy.com/project/badge/grade/858f13a0745a4550ac7ea7d948a350f7
     :target: https://www.codacy.com/app/ruben-romcor/corbel-py
 
-.. image:: https://caniusepython3.com/project/l.svg?style=flat
-    :target: https://caniusepython3.com/project/l
+..   image: https://caniusepython3.com/project/l.svg?style=flat :target: https://caniusepython3.com/project/l
 
 Project Tools
 =============

@@ -13,3 +13,5 @@ eggs/
 docs/build
 .tox
 corbel.egg-info
+build/
+.coverage
